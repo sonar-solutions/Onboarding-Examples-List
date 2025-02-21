@@ -1,4 +1,4 @@
-# Pipeline-Onboarding-Examples-List
+# Onboarding-Examples-List
 
 ## GitHub Actions Examples
 [SonarScanner CLI Example](https://github.com/sonar-solutions/sonar-scanner-cli-ghactions_example)  
