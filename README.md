@@ -21,3 +21,4 @@ This repository serves as a master index of all the examples created by the Cust
 [Python example w/ PR Decoration](https://github.com/sonar-solutions/python-gitlab_example)  
 [Java/Maven example](https://github.com/sonar-solutions/maven-gitlab_example)  
 [Java/Gradle example](https://github.com/sonar-solutions/gradle-gitlab_example)  
+[C#/DotNetCore example](https://github.com/sonar-solutions/dotnet-gitlab_example)  
