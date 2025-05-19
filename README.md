@@ -22,3 +22,6 @@ This repository serves as a master index of all the examples created by the Cust
 [Java/Maven example](https://github.com/sonar-solutions/maven-gitlab_example)  
 [Java/Gradle example](https://github.com/sonar-solutions/gradle-gitlab_example)  
 [C#/DotNetCore example](https://github.com/sonar-solutions/dotnet-gitlab_example)  
+
+## C-Family Examples
+[C-Family Examples](https://github.com/sonarsource-cfamily-examples)
